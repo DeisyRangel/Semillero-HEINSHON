@@ -1,0 +1,7 @@
+Buena tarde soy Deisy Katherine Rangel Flórez los siguientes comandos fueron los utilizados para subir este repositorio:
+
+git clone https://github.com/DeisyRangel/Semillero-HEISSON.git
+git init
+git add . 
+git commit -m "subir al git"
+git push origin master
